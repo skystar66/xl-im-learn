@@ -1,0 +1,6 @@
+server:
+  port: 8882
+xim:
+  server:
+    ip: 127.0.0.1
+    port: 8887
